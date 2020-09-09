@@ -1,0 +1,31 @@
+.nav{
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* height: 100%; */
+    width: 100%;
+    z-index: 1;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-user-select: none;
+    -webkit-user-drag: none;
+    background-color: rgb(102 72 205);
+    padding-left: 60px;
+}
+
+.navstyle{
+    font-size: 15px;
+    padding: 20px;
+}
+
+
+.iconstyle{
+    font-size: 25px;
+    top: 3px;
+    position: inherit;
+    padding-right: 10px;
+}
+.searchstyle{
+    padding-right: 60px;
+    position: inherit;
+    font-size: 20px;
+}

@@ -1,0 +1,14 @@
+.content{
+    position: inherit;
+    width: 100%;
+    padding-right: 90px;
+    padding-left: 15px;
+    padding-top: 100px;
+}
+.content1{
+    padding-right: 90px;
+
+}
+.content1:hover{
+    color: royalblue;
+}
